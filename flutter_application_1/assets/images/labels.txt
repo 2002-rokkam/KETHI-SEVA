@@ -1,0 +1,13 @@
+0 "APPLE SCAB" Medicine: Myclobutanil
+1 "BLACK ROT" Medicine:Captan, Mancozeb
+2 "POWDERY MILDEW" Medicine:Potassium bicarbonate
+3 "GREY LEAF SPOT" Medicine: pyraclostrobin
+4 "COMMON RUST" Medicine: Sulfur fungicides
+5 "LEAF BLIGHT" Medicine: zoxystrobin
+6 "BLACK MEASLES" Medicine:ribavirin
+7 "HAUNGLONGBING" Medicine: oxytetracycline
+8 "BACTERIAL SPOT" Medicine: Copper sprays
+9 "EARLY BLIGHT" Medicine: boscalid, chlorothalonil
+10 "LEAF MOLD" Medicine: Baking soda
+11 "YELLOW LEAF CURL VIRUS" Medicine:Carbofuran
+12 NO LEAF

@@ -1,0 +1,10 @@
+rice
+maize
+chickpea
+kidneybean
+lentil
+pomegranate
+orange
+cotton
+jute
+coffee
